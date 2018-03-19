@@ -1,0 +1,1351 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: tahoma, sans-serif;
+}
+
+/*------------------------------------------MENU  - BLOCK----------------------------------------------------------------*/
+
+.home-page {
+    cursor: pointer;
+    margin-left: 9%;
+}
+
+.home-page:hover {
+    color: aliceblue;
+}
+
+.favourite-page {
+    cursor: pointer;
+    margin-left: 10%;
+}
+
+.favourite-page:hover {
+    color: aliceblue;
+}
+
+.wish-page {
+    cursor: pointer;
+    margin-left: 11%;
+}
+
+.wish-page:hover {
+    color: aliceblue;
+}
+
+.menu-block {
+    font-size: 12px;
+    background: aqua;
+    display: flex;
+    padding: 2%;
+    opacity: 0.8;
+    z-index: 1;
+}
+
+/*----------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*-------------------------------------------home-block------------------------------------------------------------------------------*/
+.container {
+    margin-top: 1%;
+}
+
+.kiev {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.kiev:hover {
+    background: green;
+    opacity: 1;
+}
+
+.tirana {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.tirana:hover {
+    background: green;
+    opacity: 1;
+}
+
+.andorra {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.andorra:hover {
+    background: green;
+    opacity: 1;
+}
+
+.yerevan {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.yerevan:hover {
+    background: green;
+    opacity: 1;
+}
+
+.vienna {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.vienna:hover {
+    background: green;
+    opacity: 1;
+}
+
+.baku {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.baku:hover {
+    background: green;
+    opacity: 1;
+}
+
+.minsk {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.minsk:hover {
+    background: green;
+    opacity: 1;
+}
+
+.brussels {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.brussels:hover {
+    background: green;
+    opacity: 1;
+}
+
+.sarajevo {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.sarajevo:hover {
+    background: green;
+    opacity: 1;
+}
+
+.sofia {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.sofia:hover {
+    background: green;
+    opacity: 1;
+}
+
+.zagreb {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.zagreb:hover {
+    background: green;
+    opacity: 1;
+}
+
+.nicosia {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.nicosia:hover {
+    background: green;
+    opacity: 1;
+}
+
+.prague {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.prague:hover {
+    background: green;
+    opacity: 1;
+}
+
+.copenhagen {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.copenhagen:hover {
+    background: green;
+    opacity: 1;
+}
+
+.tallinn {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.tallinn:hover {
+    background: green;
+    opacity: 1;
+}
+
+.helsinki {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.helsinki:hover {
+    background: green;
+    opacity: 1;
+}
+
+.paris {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.paris:hover {
+    background: green;
+    opacity: 1;
+}
+
+.tbilisi {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.tbilisi:hover {
+    background: green;
+    opacity: 1;
+}
+
+.berlin {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.berlin:hover {
+    background: green;
+    opacity: 1;
+}
+
+.athens {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.athens:hover {
+    background: green;
+    opacity: 1;
+}
+
+.budapest {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.budapest:hover {
+    background: green;
+    opacity: 1;
+}
+
+.reykjavik {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.reykjavik:hover {
+    background: green;
+    opacity: 1;
+}
+
+.dublin {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.dublin:hover {
+    background: green;
+    opacity: 1;
+}
+
+.rome {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.rome:hover {
+    background: green;
+    opacity: 1;
+}
+
+.astana {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.astana:hover {
+    background: green;
+    opacity: 1;
+}
+
+.pristina {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.pristina:hover {
+    background: green;
+    opacity: 1;
+}
+
+.riga {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.riga:hover {
+    background: green;
+    opacity: 1;
+}
+
+.vadus {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.vadus:hover {
+    background: green;
+    opacity: 1;
+}
+
+.vilnius {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.vilnius:hover {
+    background: green;
+    opacity: 1;
+}
+
+.luxembourg {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.luxembourg:hover {
+    background: green;
+    opacity: 1;
+}
+
+.skopje {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.skopje:hover {
+    background: green;
+    opacity: 1;
+}
+
+.valetta {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.valetta:hover {
+    background: green;
+    opacity: 1;
+}
+
+.chisinau {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.chisinau:hover {
+    background: green;
+    opacity: 1;
+}
+
+.monteCarlo {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.monteCarlo:hover {
+    background: green;
+    opacity: 1;
+}
+
+.podgorica {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.podgorica:hover {
+    background: green;
+    opacity: 1;
+}
+
+.amsterdam {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.amsterdam:hover {
+    background: green;
+    opacity: 1;
+}
+
+.oslo {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.oslo:hover {
+    background: green;
+    opacity: 1;
+}
+
+.warsaw {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.warsaw:hover {
+    background: green;
+    opacity: 1;
+}
+
+.lisbon {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.lisbon:hover {
+    background: green;
+    opacity: 1;
+}
+
+.bucharest {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.bucharest:hover {
+    background: green;
+    opacity: 1;
+}
+
+.moscow {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.moscow:hover {
+    background: green;
+    opacity: 1;
+}
+
+.sanMarino {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.sanMarino:hover {
+    background: green;
+    opacity: 1;
+}
+
+.belgrade {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.belgrade:hover {
+    background: green;
+    opacity: 1;
+}
+
+.bratislava {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.bratislava:hover {
+    background: green;
+    opacity: 1;
+}
+
+.ljubljana {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.ljubljana:hover {
+    background: green;
+    opacity: 1;
+}
+
+.madrid {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.madrid:hover {
+    background: green;
+    opacity: 1;
+}
+
+.stockholm {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.stockholm:hover {
+    background: green;
+    opacity: 1;
+}
+
+.bern {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.bern:hover {
+    background: green;
+    opacity: 1;
+}
+
+.ankara {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.ankara:hover {
+    background: green;
+    opacity: 1;
+}
+
+.london {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.london:hover{
+    background: green;
+    opacity: 1;
+}
+
+.vatican {
+    display: inline-block;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.vatican:hover {
+    background: green;
+    opacity: 1;
+}
+
+
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+.page-home-page {
+    position: fixed;
+    z-index: 1;
+}
+
+.page-fav-page {
+    position: fixed;
+    z-index: 1;
+}
+
+.page-wish-page {
+    position: fixed;
+    z-index: 1;
+}
+
+/*----------------------------------------------------favourite list-------------------------------------*/
+
+.myBtn {
+    background: #1ddced;
+    padding: 5px 15px;
+    font-size: 30px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 0 10px;
+    margin-top: 2%;
+    border-radius: 4px;
+    box-shadow: 0 3px 0 #0eb2c1;
+}
+
+.myBtn:hover {
+    background: #13c8d9;
+}
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    padding-top: 100px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+/* Modal Content */
+
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    border-radius: 8px;
+    width: 60%;
+    height: 60%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+
+@-webkit-keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+/* The Close Button */
+
+.close {
+    color: darkgrey;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 5px 25px;
+    background-color: aqua;
+    color: darkgrey;
+}
+
+.modal-body {
+    padding: 2px 16px;
+}
+
+/*---------------------------------------------slider-------------------------------------------------*/
+
+@keyframes slidy {
+    0% {
+        left: 0%;
+    }
+    20% {
+        left: 0%;
+    }
+    25% {
+        left: -100%;
+    }
+    45% {
+        left: -100%;
+    }
+    50% {
+        left: -200%;
+    }
+    70% {
+        left: -200%;
+    }
+    75% {
+        left: -300%;
+    }
+    95% {
+        left: -300%;
+    }
+    100% {
+        left: -400%;
+    }
+
+}
+
+.background {
+    position: absolute;
+    margin: 0;
+}
+
+div#slider {
+    overflow: hidden;
+}
+
+div#slider figure img {
+    width: 20%;
+    float: left;
+
+}
+
+div#slider figure {
+    position: relative;
+    width: 500%;
+    height: 600px;
+    margin: 0;
+    left: 0;
+    text-align: left;
+    font-size: 0;
+    animation: 50s slidy infinite;
+}
+
+/*--------------------------------------wish list ---------------------------------------------------*/
+
+.page-wish-page {
+    width: 100%;
+    height: 90%;
+}
+
+.places-want-to-visit {
+    width: 40%;
+    opacity: 0.8;
+    height: 50%;
+    border-radius: 8px;
+    background-color: violet;
+    float: left;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.visited-places {
+    width: 40%;
+    opacity: 0.8;
+    height: 50%;
+    border-radius: 8px;
+    background-color: grey;
+    float: right;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+
+.places-want-to-visit p {
+    margin-left: 18%;
+    margin-top: 1%;
+    font-size: 25px;
+    color: aqua;
+}
+
+.visited-places p {
+    margin-left: 35%;
+    margin-top: 1%;
+    font-size: 25px;
+    color: aqua;
+}
+/*----------------------------------------------------------------------------------------------------------------*/
+.add_to{
+    padding-left: 35px;
+    color: coral;
+}
+
+.yourpl {
+    height: 22px;
+    width: 100%;
+    padding-left: 19px;
+}
+
+.yourpl:hover {
+    background-color: bisque;
+}
+
+.wishpl {
+    height: 22px;
+    width: 100%;
+    padding-left: 19px;
+}
+
+.wishpl:hover {
+    background-color: bisque;
+}
+
+.visitpl {
+    height: 22px;
+    width: 100%;
+    padding-left: 14px;
+}
+
+.visitpl:hover {
+    background-color: bisque;
+}
+
+.icon_plus1{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+    margin: 0;
+}
+
+
+
+.icon_plus2{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus3{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus4{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus5{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus6{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus7{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus8{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus9{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus10{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus11{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus12{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus13{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus14{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus15{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus16{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus17{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus18{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus19{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus20{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus21{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus22{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus23{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus24{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus25{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus26{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus27{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus28{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus29{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus30{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus31{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus32{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus33{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus34{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus35{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus36{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus37{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus38{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus39{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus40{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus41{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus42{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus43{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus44{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus45{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus46{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus47{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus48{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus49{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus50{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+.icon_plus51{
+    width: 130px;
+    height: 90px;
+    display: none;
+    color: white;
+    background-color: cyan;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
